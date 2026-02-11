@@ -35,7 +35,6 @@ narwhals==2.16.0
 nest-asyncio==1.6.0
 numpy==2.4.2
 openai==2.17.0
-packaging @ file:///home/task_176104874243446/conda-bld/packaging_1761049080023/work
 pandas==2.3.3
 parso==0.8.5
 pexpect==4.9.0
